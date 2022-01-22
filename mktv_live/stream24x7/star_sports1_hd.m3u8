@@ -5,4 +5,5 @@
 #EXT-X-MEDIA-SEQUENCE:20211
 #EXT-X-PROGRAM-DATE-TIME:2022-01-22T16:58:14Z
 #EXTINF:6.000,
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868
+
+http://176.9.17.76:7080/live/stream/8dl627dwai/65.ts
